@@ -26,4 +26,4 @@
 
 <br>
 
-<h4>Video of circuit working,<a href="https://www.youtube.com/shorts/ibQIgjybXPc">click here</a>.</h4>
+<h4>Video of circuit working,<a href="https://www.youtube.com/shorts/ibQIgjybXPc" target="_blank">click here</a>.</h4>
