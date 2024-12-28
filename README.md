@@ -15,6 +15,10 @@
 <li><p><b>Segment_Counter.ino :</b> contains the arduino code</p></li>
 </ul>
 
+<br>
+<br>
+<br>
+
 <h3>Properties of project :</h3>
 <ul> 
 <li>The seven-segments are used without their encoders(7447 or 7448), so we used hex values that represents numbers and saved them in <b>SegmentValues[]</b> array</li>
