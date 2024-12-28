@@ -17,7 +17,6 @@
 
 <br>
 <br>
-<br>
 
 <h3>Properties of project :</h3>
 <ul> 
@@ -25,7 +24,6 @@
 <li>The seven-segments used are <b>common anode</b></li>
 </ul>
 
+<br>
+
 <h4>Video of circuit working,<a href="https://www.youtube.com/shorts/ibQIgjybXPc">click here</a>.</h4>
-
-
-
